@@ -72,6 +72,7 @@ h6 {
 }
 
 .masthead {
+  color: #fff;
   min-height: 30rem;
   position: relative;
   display: table;
@@ -220,7 +221,7 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content {
-  color: #fff;
+  color: transparent;
   margin: auto 2rem 2rem;
 }
 
@@ -264,6 +265,9 @@ h6 {
     background-color: rgba(29, 128, 159, 0.9);
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
+  }
+  .portfolio-item:hover .caption .caption-content {
+    color: #fff;
   }
 }
 
