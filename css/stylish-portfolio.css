@@ -229,6 +229,10 @@ h6 {
   font-size: 0.8rem;
   text-transform: uppercase;
 }
+.portfolio-item .caption .caption-content .inner {
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
 
 .portfolio-item .caption .caption-content p {
   font-weight: 300;
