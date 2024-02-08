@@ -1,6 +1,6 @@
 # Personal Portfolio Page
 
-The deployed GitHub page can be found here: https://brockthigpen.github.io
+~~The deployed GitHub page can be found here: https://brockthigpen.github.io~~ no longer deployed 
 <br>
 Github: https://github.com/BrockThigpen
 <br>
